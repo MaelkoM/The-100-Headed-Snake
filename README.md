@@ -5,4 +5,4 @@ Here, I'm getting to terms with GitHub by uploading stuff from my 100 Days of Co
 
 If you have the wish and motivation to share your thoughts and/or improvements with me, please do!
 
-Artworks bei Susi Vetter.
+Artworks by Susi Vetter.
