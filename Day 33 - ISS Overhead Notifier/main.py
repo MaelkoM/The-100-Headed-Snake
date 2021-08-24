@@ -17,11 +17,11 @@ email_bot = SendEmail(MY_EMAIL, MY_PASSWORD, SMTP_SERVER, RECEIVER_EMAIL)
 in_range = False
 
 
-def check_status():
+def check_status() -> None:
     """
     Checks whether ISS is in range (your location +- )
     Must be broken up into functions!
-    Also, python function recursion limit!
+    Also, take into account python function recursion limit!
     """
     global in_range
     website_requests = WebsiteRequests()
